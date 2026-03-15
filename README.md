@@ -134,10 +134,3 @@ jupyter notebook Amazon_Sales.ipynb
 
 This analysis provides a comprehensive view of Amazon sales data, offering insights into revenue patterns, top-performing products, and sales trends. The visualizations and statistical analyses can aid in understanding the dynamics of sales performance, potentially helping business analysts, marketers, and decision-makers in their efforts to optimize sales strategies.
 
-## 💬 Feedback and Questions
-
-If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing [jitukumar9387@gmail.com](mailto:jitukumar9387@gmail.com).
-
-Thank you for exploring the Amazon Sales Analysis Project! We hope you find it insightful and informative.
-
-Happy Analyzing!
